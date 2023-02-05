@@ -1,3 +1,3 @@
 # PowerBI
 
-Open the file in PowerBI, to se the analyzed sales.
+Open the file in PowerBI, to see the analyzed sales.
